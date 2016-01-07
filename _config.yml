@@ -1,0 +1,26 @@
+color:
+  saturation: 0.1034955
+  brandStrength: 0.4493579
+  rhythmicContrast: 0.1137569
+  brandColors:
+    - '#FFFFFF'
+    - '#161418'
+    - '#C7B3A2'
+    - '#5B3926'
+    - '#996467'
+  lightness: 0.9036072
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.8940436
+typography_spectrum: 0.2189977
+name: J
